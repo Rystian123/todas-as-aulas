@@ -1,0 +1,151 @@
+body{
+    margin: 0%;
+}
+
+
+.navegacao{
+    color: rgb(0, 0, 0);
+    background-color: black;
+    font-size: 25px;
+    height: 15vh;
+}
+
+.navegacao ul{
+    background-color: black;
+    color: white;
+    list-style-type: none;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.navegacao ul li{
+  padding-right: 70px;
+}
+
+.navegacao ul li:hover{
+    color: #ffd800;
+    cursor: pointer;
+}
+
+.banner{
+    background-image: url(como-escolher-barbearia-800x300.png);
+    height: 70vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.container{
+    background-color: black;
+    color: white;
+    height: 20vh;
+}
+
+.container .containerTexto h1{
+   margin-top: 0;
+   font-size: 35px;
+   padding-top: 35px;
+   padding-left: 60px;
+}
+
+.Unidades{
+    background-color: #ffd800;
+    height: 100vh;
+   display: flex;
+  
+}
+
+
+.UnidadeTexto{
+ margin-left: 50px; ;
+ margin-top: 0;
+}
+
+.UnidadeTexto ol{
+    list-style-type: none;
+    font-size: 20px;
+}
+
+button{
+    background-color: transparent;
+    border-radius: 10px;
+    padding: 10px;
+    margin-left: 15px;
+}
+
+.Unidades img{
+width: 40%;
+}
+
+button:hover{
+    color: white;
+    background-color: black;
+}
+
+.BANNER2{
+    height: 50vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.BARBEARIA{
+    
+    text-align: center;
+}
+
+.TEXTO{
+    text-align: justify;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size:20px ;
+    
+}
+
+
+
+.ATENDIMENTO{
+background-color: grey;
+   display: flex;
+justify-content: center;
+
+}
+
+
+.atend{
+    text-align: center;
+}
+
+.lorem{
+
+    text-align: justify center;
+  
+}
+
+.formulario{
+    background-color: white;
+    height: 300px;
+}
+---------
+.localizacao{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.localizacao .Form-localizacao{
+    border: none;
+    outline: none;
+    border-bottom: solid 1px #000000;
+}
+
+.rodape{
+    background-color: black;
+    height: 10vh;
+    color: white;
+}

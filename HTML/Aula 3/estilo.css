@@ -1,0 +1,20 @@
+body{
+    background-color: deepskyblue;
+}
+h1{
+    color: darkred;
+    background-color: deepskyblue;}
+
+.PrimeiroParagrafo{
+color: aquamarine;
+background-color: chocolate;
+}
+
+.SegundoParagrafo{
+color: darkkhaki;
+background-color: azure;
+}
+.TerceiroParagrafo{
+color: rgb(225, 5, 5);
+background-color: darkseagreen;
+}
